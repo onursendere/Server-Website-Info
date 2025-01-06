@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Server & Website Info 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/server-website-info\n"
+"POT-Creation-Date: 2025-01-06T12:05:59Z\n"
+"PO-Revision-Date: 2025-01-06T12:05:59Z\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: server-website-info\n"
+
+msgid "Server & Website Info"
+msgstr "サーバー＆ウェブサイト情報"
+
+msgid "Welcome to Server & Website Info! This tool provides comprehensive information about your server configuration, WordPress installation, database settings, and active plugins. All information is presented in an easy-to-read format and can be copied to clipboard with a single click."
+msgstr "サーバー＆ウェブサイト情報へようこそ！このツールは、サーバー構成、WordPressのインストール、データベース設定、アクティブなプラグインに関する包括的な情報を提供します。すべての情報は読みやすい形式で表示され、クリック一つでクリップボードにコピーできます。"
+
+msgid "Server Information"
+msgstr "サーバー情報"
+
+msgid "Operating System"
+msgstr "オペレーティングシステム"
+
+msgid "Server Hostname"
+msgstr "サーバーホスト名"
+
+msgid "Server IP"
+msgstr "サーバーIP"
+
+msgid "Server Protocol"
+msgstr "サーバープロトコル"
+
+msgid "Server Port"
+msgstr "サーバーポート"
+
+msgid "Web Server"
+msgstr "Webサーバー"
+
+msgid "PHP Version"
+msgstr "PHPバージョン"
+
+msgid "PHP Memory Limit"
+msgstr "PHPメモリ制限"
+
+msgid "System Uptime"
+msgstr "システム稼働時間"
+
+msgid "Database Information"
+msgstr "データベース情報"
+
+msgid "Database Extension"
+msgstr "データベース拡張"
+
+msgid "Server Version"
+msgstr "サーバーバージョン"
+
+msgid "Client Version"
+msgstr "クライアントバージョン"
+
+msgid "Database Name"
+msgstr "データベース名"
+
+msgid "Database User"
+msgstr "データベースユーザー"
+
+msgid "Database Host"
+msgstr "データベースホスト"
+
+msgid "Table Prefix"
+msgstr "テーブル接頭辞"
+
+msgid "Charset"
+msgstr "文字セット"
+
+msgid "Collation"
+msgstr "照合順序"
+
+msgid "WordPress Information"
+msgstr "WordPress情報"
+
+msgid "WordPress Version"
+msgstr "WordPressバージョン"
+
+msgid "Active Theme"
+msgstr "アクティブなテーマ"
+
+msgid "Debug Mode"
+msgstr "デバッグモード"
+
+msgid "Active Plugins"
+msgstr "アクティブなプラグイン"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "Not available"
+msgstr "利用不可"
+
+msgid "Copied!"
+msgstr "コピーしました！"
+
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+msgid "v%1$s by %2$s"
+msgstr "v%1$s by %2$s"
+
+msgid "No active plugins found"
+msgstr "アクティブなプラグインが見つかりません"
+
+msgid "An error occurred while gathering server information. Please try again later or contact support if the problem persists."
+msgstr "サーバー情報の収集中にエラーが発生しました。問題が解決しない場合は、後でもう一度お試しいただくかサポートにお問い合わせください。"
+
+msgid "Made with love in Shrewsbury"
+msgstr "シュルーズベリーで愛を込めて作られました"
+
+msgid "Visit author profile"
+msgstr "作者のプロフィールを見る"

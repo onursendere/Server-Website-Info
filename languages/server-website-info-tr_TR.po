@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Server & Website Info 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/server-website-info\n"
+"POT-Creation-Date: 2025-01-06T12:05:59Z\n"
+"PO-Revision-Date: 2025-01-06T12:05:59Z\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: server-website-info\n"
+
+msgid "Server & Website Info"
+msgstr "Sunucu ve Site Bilgileri"
+
+msgid "Welcome to Server & Website Info! This tool provides comprehensive information about your server configuration, WordPress installation, database settings, and active plugins. All information is presented in an easy-to-read format and can be copied to clipboard with a single click."
+msgstr "Sunucu ve Site Bilgileri'ne hoş geldiniz! Bu araç, sunucu yapılandırmanız, WordPress kurulumunuz, veritabanı ayarlarınız ve aktif eklentileriniz hakkında kapsamlı bilgiler sunar. Tüm bilgiler kolay okunabilir bir formatta sunulur ve tek tıklamayla panoya kopyalanabilir."
+
+msgid "Server Information"
+msgstr "Sunucu Bilgileri"
+
+msgid "Operating System"
+msgstr "İşletim Sistemi"
+
+msgid "Server Hostname"
+msgstr "Sunucu Ana Bilgisayar Adı"
+
+msgid "Server IP"
+msgstr "Sunucu IP"
+
+msgid "Server Protocol"
+msgstr "Sunucu Protokolü"
+
+msgid "Server Port"
+msgstr "Sunucu Portu"
+
+msgid "Web Server"
+msgstr "Web Sunucusu"
+
+msgid "PHP Version"
+msgstr "PHP Sürümü"
+
+msgid "PHP Memory Limit"
+msgstr "PHP Bellek Limiti"
+
+msgid "System Uptime"
+msgstr "Sistem Çalışma Süresi"
+
+msgid "Database Information"
+msgstr "Veritabanı Bilgileri"
+
+msgid "Database Extension"
+msgstr "Veritabanı Uzantısı"
+
+msgid "Server Version"
+msgstr "Sunucu Sürümü"
+
+msgid "Client Version"
+msgstr "İstemci Sürümü"
+
+msgid "Database Name"
+msgstr "Veritabanı Adı"
+
+msgid "Database User"
+msgstr "Veritabanı Kullanıcısı"
+
+msgid "Database Host"
+msgstr "Veritabanı Sunucusu"
+
+msgid "Table Prefix"
+msgstr "Tablo Öneki"
+
+msgid "Charset"
+msgstr "Karakter Seti"
+
+msgid "Collation"
+msgstr "Karşılaştırma"
+
+msgid "WordPress Information"
+msgstr "WordPress Bilgileri"
+
+msgid "WordPress Version"
+msgstr "WordPress Sürümü"
+
+msgid "Active Theme"
+msgstr "Aktif Tema"
+
+msgid "Debug Mode"
+msgstr "Hata Ayıklama Modu"
+
+msgid "Active Plugins"
+msgstr "Aktif Eklentiler"
+
+msgid "Enabled"
+msgstr "Etkin"
+
+msgid "Disabled"
+msgstr "Devre Dışı"
+
+msgid "Not available"
+msgstr "Kullanılamıyor"
+
+msgid "Copied!"
+msgstr "Kopyalandı!"
+
+msgid "Copy to clipboard"
+msgstr "Panoya kopyala"
+
+msgid "v%1$s by %2$s"
+msgstr "v%1$s - %2$s"
+
+msgid "No active plugins found"
+msgstr "Aktif eklenti bulunamadı"
+
+msgid "An error occurred while gathering server information. Please try again later or contact support if the problem persists."
+msgstr "Sunucu bilgileri toplanırken bir hata oluştu. Lütfen daha sonra tekrar deneyin veya sorun devam ederse destek ekibiyle iletişime geçin."
+
+msgid "Made with love in Shrewsbury"
+msgstr "Shrewsbury'de sevgiyle üretildi"
+
+msgid "Visit author profile"
+msgstr "Yazar profilini ziyaret et"

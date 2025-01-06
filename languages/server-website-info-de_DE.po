@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Server & Website Info 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/server-website-info\n"
+"POT-Creation-Date: 2025-01-06T12:05:59Z\n"
+"PO-Revision-Date: 2025-01-06T12:05:59Z\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: server-website-info\n"
+
+msgid "Server & Website Info"
+msgstr "Server & Website Info"
+
+msgid "Welcome to Server & Website Info! This tool provides comprehensive information about your server configuration, WordPress installation, database settings, and active plugins. All information is presented in an easy-to-read format and can be copied to clipboard with a single click."
+msgstr "Willkommen bei Server & Website Info! Dieses Tool bietet umfassende Informationen über Ihre Serverkonfiguration, WordPress-Installation, Datenbankeinstellungen und aktive Plugins. Alle Informationen werden in einem leicht lesbaren Format präsentiert und können mit einem einzigen Klick in die Zwischenablage kopiert werden."
+
+msgid "Server Information"
+msgstr "Server-Informationen"
+
+msgid "Operating System"
+msgstr "Betriebssystem"
+
+msgid "Server Hostname"
+msgstr "Server-Hostname"
+
+msgid "Server IP"
+msgstr "Server-IP"
+
+msgid "Server Protocol"
+msgstr "Server-Protokoll"
+
+msgid "Server Port"
+msgstr "Server-Port"
+
+msgid "Web Server"
+msgstr "Webserver"
+
+msgid "PHP Version"
+msgstr "PHP-Version"
+
+msgid "PHP Memory Limit"
+msgstr "PHP-Speicherlimit"
+
+msgid "System Uptime"
+msgstr "System-Laufzeit"
+
+msgid "Database Information"
+msgstr "Datenbank-Informationen"
+
+msgid "Database Extension"
+msgstr "Datenbank-Erweiterung"
+
+msgid "Server Version"
+msgstr "Server-Version"
+
+msgid "Client Version"
+msgstr "Client-Version"
+
+msgid "Database Name"
+msgstr "Datenbankname"
+
+msgid "Database User"
+msgstr "Datenbankbenutzer"
+
+msgid "Database Host"
+msgstr "Datenbank-Host"
+
+msgid "Table Prefix"
+msgstr "Tabellen-Präfix"
+
+msgid "Charset"
+msgstr "Zeichensatz"
+
+msgid "Collation"
+msgstr "Kollation"
+
+msgid "WordPress Information"
+msgstr "WordPress-Informationen"
+
+msgid "WordPress Version"
+msgstr "WordPress-Version"
+
+msgid "Active Theme"
+msgstr "Aktives Theme"
+
+msgid "Debug Mode"
+msgstr "Debug-Modus"
+
+msgid "Active Plugins"
+msgstr "Aktive Plugins"
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "Not available"
+msgstr "Nicht verfügbar"
+
+msgid "Copied!"
+msgstr "Kopiert!"
+
+msgid "Copy to clipboard"
+msgstr "In die Zwischenablage kopieren"
+
+msgid "v%1$s by %2$s"
+msgstr "v%1$s von %2$s"
+
+msgid "No active plugins found"
+msgstr "Keine aktiven Plugins gefunden"
+
+msgid "An error occurred while gathering server information. Please try again later or contact support if the problem persists."
+msgstr "Beim Sammeln der Serverinformationen ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut oder wenden Sie sich an den Support, wenn das Problem weiterhin besteht."
+
+msgid "Made with love in Shrewsbury"
+msgstr "Mit Liebe gemacht in Shrewsbury"
+
+msgid "Visit author profile"
+msgstr "Autorenprofil besuchen"

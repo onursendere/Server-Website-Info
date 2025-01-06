@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Server & Website Info 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/server-website-info\n"
+"POT-Creation-Date: 2025-01-06T12:05:59Z\n"
+"PO-Revision-Date: 2025-01-06T12:05:59Z\n"
+"Last-Translator: \n"
+"Language-Team: English (UK)\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: server-website-info\n"
+
+msgid "Server & Website Info"
+msgstr "Server & Website Info"
+
+msgid "Welcome to Server & Website Info! This tool provides comprehensive information about your server configuration, WordPress installation, database settings, and active plugins. All information is presented in an easy-to-read format and can be copied to clipboard with a single click."
+msgstr "Welcome to Server & Website Info! This tool provides comprehensive information about your server configuration, WordPress installation, database settings, and active plugins. All information is presented in an easy-to-read format and can be copied to clipboard with a single click."
+
+msgid "Server Information"
+msgstr "Server Information"
+
+msgid "Operating System"
+msgstr "Operating System"
+
+msgid "Server Hostname"
+msgstr "Server Hostname"
+
+msgid "Server IP"
+msgstr "Server IP"
+
+msgid "Server Protocol"
+msgstr "Server Protocol"
+
+msgid "Server Port"
+msgstr "Server Port"
+
+msgid "Web Server"
+msgstr "Web Server"
+
+msgid "PHP Version"
+msgstr "PHP Version"
+
+msgid "PHP Memory Limit"
+msgstr "PHP Memory Limit"
+
+msgid "System Uptime"
+msgstr "System Uptime"
+
+msgid "Database Information"
+msgstr "Database Information"
+
+msgid "Database Extension"
+msgstr "Database Extension"
+
+msgid "Server Version"
+msgstr "Server Version"
+
+msgid "Client Version"
+msgstr "Client Version"
+
+msgid "Database Name"
+msgstr "Database Name"
+
+msgid "Database User"
+msgstr "Database User"
+
+msgid "Database Host"
+msgstr "Database Host"
+
+msgid "Table Prefix"
+msgstr "Table Prefix"
+
+msgid "Charset"
+msgstr "Charset"
+
+msgid "Collation"
+msgstr "Collation"
+
+msgid "WordPress Information"
+msgstr "WordPress Information"
+
+msgid "WordPress Version"
+msgstr "WordPress Version"
+
+msgid "Active Theme"
+msgstr "Active Theme"
+
+msgid "Debug Mode"
+msgstr "Debug Mode"
+
+msgid "Active Plugins"
+msgstr "Active Plugins"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Not available"
+msgstr "Not available"
+
+msgid "Copied!"
+msgstr "Copied!"
+
+msgid "Copy to clipboard"
+msgstr "Copy to clipboard"
+
+msgid "v%1$s by %2$s"
+msgstr "v%1$s by %2$s"
+
+msgid "No active plugins found"
+msgstr "No active plugins found"
+
+msgid "An error occurred while gathering server information. Please try again later or contact support if the problem persists."
+msgstr "An error occurred while gathering server information. Please try again later or contact support if the problem persists."
+
+msgid "Made with love in Shrewsbury"
+msgstr "Made with love in Shrewsbury"
+
+msgid "Visit author profile"
+msgstr "Visit author profile"
